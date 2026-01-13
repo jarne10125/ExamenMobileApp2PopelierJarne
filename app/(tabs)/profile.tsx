@@ -16,9 +16,9 @@ export default function ProfileScreen() {
 
   return (
     <ThemedView style={{ padding: 16, gap: 12 }}>
-      {/* VERPLICHT: Naam zichtbaar */}
+      
       <ThemedText style={{ fontSize: 22, fontWeight: "900" }}>
-        Voornaam Achternaam
+        Jarne Popelier
       </ThemedText>
       <ThemedText style={{ color: c.muted }}>Profile & settings</ThemedText>
 
